@@ -17,7 +17,7 @@ _texte_
 
 ## Création du répo sur github
 
-- Créé un compte sur github
+- Créer un compte sur github
 - Cliquer sur son avatar et ensuite sur your repositories
 - Cliquer sur new
 - Donner un nom au répo
