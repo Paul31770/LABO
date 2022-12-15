@@ -2,18 +2,26 @@
 **texte**
 
 mettre en italique
-_texte_ -->
+_texte_
 
-# Titre 1
+# titre 1
+## titre 2
+### titre 3
+#### titre 4
 
-## Initialisation du depot git dans le répertoire voulu
+- faire une liste
+1. faire une liste ordonnée
+-->
 
-_git init_
+---
 
-### Titre 3
+## Création du répo sur github
 
-#### Titre 4
+- Créé un compte sur github
+- Cliquer sur son avatar et ensuite sur your repositories
+- Cliquer sur new
+- Donner un nom au répo
 
-##### Titre 5
+## Création du dossier ou l'on veut initialiser le dépot
 
-###### Titre 6
+- Suivre les commandes indiquées sur github
