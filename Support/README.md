@@ -33,11 +33,11 @@ _texte_
 ## Créer une sous branche dev
 
 - Faire la commande -> git checkout master (pour se mettre sur la branche master)
-                       git branch dev
-                
+  git branch dev
+
 ## Créer les sous branches feat 1, 2, 3
 
--Faire la commande -> git checkout dev
-                      git branch feat 1
-                      git branch feat 2
-                      git branch feat 3
+- Faire la commande -> git checkout dev
+  git branch feat 1
+  git branch feat 2
+  git branch feat 3
