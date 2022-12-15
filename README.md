@@ -4,9 +4,11 @@
 mettre en italique
 _texte_ -->
 
-# TItre 1
+# Titre 1
 
-## Titre 2
+## Initialisation du depot git dans le répertoire voulu
+
+_git init_
 
 ### Titre 3
 
