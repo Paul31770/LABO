@@ -37,7 +37,4 @@ _texte_
 
 ## Créer les sous branches feat 1, 2, 3
 
-- Faire la commande -> git checkout dev
--                   ->git branch feat 1
--                   ->git branch feat 2
--                   ->git branch feat 3
+- Faire les commandes suivantes ->git checkout dev ->git branch feat 1 ->git branch feat 2 ->git branch feat 3
